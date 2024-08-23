@@ -1,10 +1,10 @@
 
-package practicas;
+package collections;
 
 import java.util.Collection;
 import java.util.ArrayList;
 
-public class Coleccion {
+public class collection_java {
     public static void main(String[] args) {
         // Aqui declaramos la coleccion
         Collection<Object> coleccion = new ArrayList<>();
